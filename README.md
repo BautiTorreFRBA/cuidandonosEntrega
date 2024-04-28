@@ -1,5 +1,10 @@
 # cuidandonosEntrega
 Punto 2(Modelado de dominio)
+
+## Alumnos:
+Bautista Torre Vanoni
+Luca Cesari
+
 ## Justificaciones de diseño:
 ### Patrón Adapter: 
 Utilizamos el patrón adapter con AproximadoDeTiempo para implementar la API REST "Distance Matrix Api" la cual calcula la distancia entre dos direcciones pasadas por parámetro. Hicimos uso del patrón principalmente por si el desarrollador quiere agregar alguna otra forma para calcular distancias entre dos puntos.
