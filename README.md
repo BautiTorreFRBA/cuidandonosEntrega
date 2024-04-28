@@ -2,8 +2,8 @@
 Punto 2(Modelado de dominio)
 
 ## Alumnos:
-Bautista Torre Vanoni
-Luca Cesari
+* Bautista Torre Vanoni
+* Luca Cesari
 
 ## Justificaciones de diseño:
 ### Patrón Adapter: 
